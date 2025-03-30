@@ -1,0 +1,42 @@
+
+body{
+    
+    background-blend-mode: difference;
+    margin: 100px;
+    max-width: auto;
+    background-color: #eca8a8;
+    
+    
+}
+
+img{
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+  }
+
+
+
+.container {
+    max-width: 90%; 
+    margin: 5%; 
+    padding: 20px; 
+    border: 1px solid #c95a5a00; 
+    background-color: rgba(233, 167, 167, 0); 
+    
+    
+  }
+.item {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+h1 {
+  text-align: center;
+  background-color: #fff;
+    border-radius: 100px;
+}
